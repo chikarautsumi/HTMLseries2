@@ -37,6 +37,12 @@ html {
     color: #FFF;
   }
 
+  header ul a {
+    color: white;
+    text-decoration: none;
+    display: block;
+  }
+
   .left_li {
     float:left;
     text-indent: 3rem;
